@@ -1,0 +1,14 @@
+apt-get install -y bully
+apt-get install -y curl
+apt-get install -y isc-dhcp-server
+apt-get install -y hostapd
+apt-get install -y lighttpd
+apt-get install -y macchanger
+apt-get install -y mdk3
+apt-get install -y php-cgi
+apt-get install -y pyrit
+apt-get install -y unzip
+apt-get install -y rfkill
+apt-get install -y reaver
+apt-get install -y binutils
+git clone https://github.com/deltaxflux/fluxion.git
